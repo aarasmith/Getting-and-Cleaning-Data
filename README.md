@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data
-# run_anlysis.R
+# run_analysis.R
 ## run_analysis.R reads the datasets from the UCI HAR Dataset and combines the data into one large dataframe
 ## It extracts mean and standard deviation data into data_mean_std
 ## It transforms activity types from numeric to descriptive strings
